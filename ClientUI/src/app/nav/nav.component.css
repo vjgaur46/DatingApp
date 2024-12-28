@@ -1,0 +1,11 @@
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #ea868f !important;
+}
+.btn-outline-success {
+    --bs-btn-color: #f8f9fa !important;
+    --bs-btn-border-color: rgb(234 134 143) !important;
+}
+.dropdown-toggle, .dropdown-item{
+    cursor: pointer;
+}
