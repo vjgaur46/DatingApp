@@ -47,7 +47,7 @@ namespace API.Data.Migrations
                 defaultValue: "");
 
             migrationBuilder.AddColumn<string>(
-                name: "Intrests",
+                name: "Interests",
                 table: "Users",
                 type: "nvarchar(max)",
                 nullable: true);
